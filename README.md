@@ -13,43 +13,43 @@
 <p>A API para o CRUD de usuários, categorias e posts de blog conta com os seguintes endpoints:</p>
 <ul>
 <li>
-  POST /login realiza o login do usuário e retorna um token de acesso.
+  POST /login - realiza o login do usuário e retorna um token de acesso.
 </li>
 <li>
-  POST /user cria um novo usuário.
+  POST /user - cria um novo usuário.
 </li>
 <li>
-  GET /user retorna uma lista com todos os usuários cadastrados.
+  GET /user - retorna uma lista com todos os usuários cadastrados.
 </li>
 <li>
-  GET /user/:id retorna as informações de um usuário específico, identificado pelo seu ID.
+  GET /user/:id - retorna as informações de um usuário específico, identificado pelo seu ID.
 </li>
 <li>
-  DELETE /user/me exclui o usuário autenticado.
+  DELETE /user/me - exclui o usuário autenticado.
 </li>
 <li>
-  POST /categories cria uma nova categoria.
+  POST /categories - cria uma nova categoria.
 </li>
 <li>
-  GET /categories retorna uma lista com todas as categorias cadastradas.
+  GET /categories - retorna uma lista com todas as categorias cadastradas.
 </li>
 <li>
-  POST /post cria um novo post de blog.
+  POST /post - cria um novo post de blog.
 </li>
 <li>
-  GET /post retorna uma lista com todos os posts de blog cadastrados.
+  GET /post - retorna uma lista com todos os posts de blog cadastrados.
 </li>
 <li>
-  GET /post/:id retorna as informações de um post de blog específico, identificado pelo seu ID.
+  GET /post/:id - retorna as informações de um post de blog específico, identificado pelo seu ID.
 </li>
 <li>
-  PUT /post/:id atualiza as informações de um post de blog específico, identificado pelo seu ID.
+  PUT /post/:id - atualiza as informações de um post de blog específico, identificado pelo seu ID.
 </li>
 <li>
-  DELETE /post/:id exclui um post de blog específico, identificado pelo seu ID.
+  DELETE /post/:id - exclui um post de blog específico, identificado pelo seu ID.
 </li>
 <li>
-  GET /post/search?q=:searchTerm pesquisa posts de blog por termos e retorna os resultados.
+  GET /post/search?q=:searchTerm - pesquisa posts de blog por termos e retorna os resultados.
 </li>
 </ul>
 <h2>Como executar o projeto</h2>
