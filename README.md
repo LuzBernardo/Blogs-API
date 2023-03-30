@@ -69,4 +69,4 @@
 </li>
 </ol>
 <h2>Considerações finais</h2>
-<p>Este projeto foi desenvolvido como um exercício para aplicar conhecimentos em Node.js, Docker, SQL, JWT (para autentificação de usuário), Express.js, Sequelize, APIs RESTful e gerenciamento de blogs. Sinta-se à vontade para utilizá-lo como referência ou como base para o desenvolvimento de projetos similares. Em caso de dúvidas ou sugestões, entre em contato.</p>
+<p>Este projeto é um exemplo prático e didático, desenvolvido para explorar e consolidar habilidades em Node.js, Docker, SQL, JWT (autenticação de usuários), Express.js, Sequelize, APIs RESTful e gerenciamento de blogs. Convido você a usar este projeto como referência, inspiração ou ponto de partida para o desenvolvimento de suas próprias aplicações. Estou aberto a dúvidas, sugestões ou feedbacks; não hesite em entrar em contato comigo.</p>
