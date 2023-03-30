@@ -1,8 +1,6 @@
 <h1>Blogs API</h1>
-<p>Este projeto consiste em uma aplicação de gerenciamento de blogs, onde é possível realizar as operações de criação, leitura, atualização e exclusão (CRUD) de informações relacionadas a usuários, categorias e posts de blog, além de pesquisar posts por termos.</p>
-
-<p>A aplicação foi desenvolvida em Node.js utilizando uma API para o CRUD de usuários, categorias e posts de blog e endpoints que realizam autenticação e autorização dos usuários.</p>
-
+<p>Este projeto é um exercício prático para aplicar conhecimentos em Node.js, Docker, SQL, JWT (autenticação de usuários), Express.js, Sequelize e APIs RESTful, focado no gerenciamento de blogs. A aplicação permite executar operações de criação, leitura, atualização e exclusão (CRUD) relacionadas a usuários, categorias e posts de blog, além de oferecer a funcionalidade de pesquisa de posts por termos específicos.</p>
+<p>Desenvolvida em Node.js, a aplicação utiliza uma API para gerenciar usuários, categorias e posts de blog, bem como endpoints responsáveis pela autenticação e autorização dos usuários. O projeto é ideal para quem busca uma base sólida e moderna para desenvolver aplicações similares ou como referência para aprimorar habilidades técnicas</p>
 <h2>Funcionalidades</h2>
 <p>A aplicação conta com as seguintes funcionalidades:</p>
 <ul>
